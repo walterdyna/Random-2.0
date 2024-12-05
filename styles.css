@@ -72,4 +72,8 @@ button:active {
     text-align: center;
     display: none; /* Inicialmente oculto */
     transition: visibility 0.1s, color 0.1s; /* Transição suave para visibilidade e cor */
+    box-shadow: 0px 18px 40px rgba(174, 195, 70, 0.35);
+    background-color: none;
+    border-radius: 50px;
+    padding: 10px;
 }
